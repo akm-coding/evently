@@ -15,7 +15,7 @@ const Footer = () => {
           />
         </Link>
         <p>
-          2023 Evently. All Rights reserved. Developed by{" "}
+          2024 Evently. All Rights reserved. Developed by{" "}
           <a
             href="https://github.com/aungkaungmyat-is-coding"
             className="underline text-primary-500"
